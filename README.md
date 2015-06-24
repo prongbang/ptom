@@ -1,2 +1,4 @@
-# ptom
-INFORMATION TECHNOLOGY PROJECT DSS PTOM 
+# PTOM
+INFORMATION TECHNOLOGY PROJECT <br>
+Decision Support Systems for Public Transportation on Mobile Application.
+
